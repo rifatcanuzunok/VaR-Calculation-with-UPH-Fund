@@ -25,6 +25,9 @@
 #### Relative VaR
 > Relative VaR measures the risk of underperformance relative to a pre-defined benchmark
 
+#### Incremental VaR
+> Incremental value at risk is the amount of uncertainty added to or subtracted from a portfolio by purchasing or selling an investment.[[5]]
+
 
 ## Maximum Drawdown
 ![maximum_drawdown](https://user-images.githubusercontent.com/39410518/129209087-49940a38-1846-4a71-b1f6-2bf74f02f81a.png)
@@ -86,3 +89,4 @@
 
 
 [1]: https://www.investopedia.com/terms/v/var.asp
+[5]: https://www.investopedia.com/terms/i/incremental-value-at-risk.asp
