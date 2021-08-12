@@ -55,3 +55,7 @@
 ![returns_vs_normal_dist](https://user-images.githubusercontent.com/39410518/129208113-669d5a5a-4093-4695-88db-b512c1ff2b7f.png)
 ![returns_vs_normal_dist](https://user-images.githubusercontent.com/39410518/129208126-97f91195-15c2-4bd3-8d5f-5922ad832b78.png)
 ![returns_vs_normal_dist](https://user-images.githubusercontent.com/39410518/129208140-8c0cb138-c7db-44b3-82a3-79eb750c1cbc.png)
+
+## Maximum Drawdown
+![maximum_drawdown](https://user-images.githubusercontent.com/39410518/129209087-49940a38-1846-4a71-b1f6-2bf74f02f81a.png)
+
