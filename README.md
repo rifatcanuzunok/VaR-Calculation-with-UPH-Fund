@@ -8,13 +8,13 @@
 ## Definition list
 ---
 #### Value at Risk
-> Value-at-risk is a statistic that quantifies the extent of possible financial losses within a firm, portfolio, or position over a specific time frame. [[1]]
+> VAR is a probability-based measure of loss potential. It is an estimate of the minimum loss that is expected to be exceeded in a specified time period with a given level of probability. [[1]]
  
 #### Diversified VaR
->  It takes into account the correlation between the assets, is the square root of the variance of the portfolio.
+>  It takes into account the correlation between the assets, is the square root of the variance of the portfolio. [[2]]
 
 #### Undiversified VaR
-> Undiversified VaR is the weighted average of the individual standard deviations.
+> Undiversified VaR is the weighted average of the individual standard deviations. [[3]]
 
 #### Marginal VaR
 > Marginal VaR measures how much risk a position adds to a portfolio. Specifically, marginal VaR measures how much portfolio VaR would change if the position were removed entirely
@@ -26,7 +26,7 @@
 > Relative VaR measures the risk of underperformance relative to a pre-defined benchmark
 
 #### Incremental VaR
-> Incremental value at risk is the amount of uncertainty added to or subtracted from a portfolio by purchasing or selling an investment.[[5]]
+> Incremental value at risk is the amount of uncertainty added to or subtracted from a portfolio by purchasing or selling an investment.[[7]
 
 
 ## Maximum Drawdown
@@ -89,5 +89,7 @@ From the below we can see the returns have all been fairly normally distributed 
 
 
 
-[1]: https://www.investopedia.com/terms/v/var.asp
-[5]: https://www.investopedia.com/terms/i/incremental-value-at-risk.asp
+[1]: https://www.veristrat.com/blog-valuation/value-at-risk-var/
+[2]: http://www.yieldcurve.com/Mktresearch/LearningCurve/LearningCurve3.pdf
+[3]: http://www.yieldcurve.com/Mktresearch/LearningCurve/LearningCurve3.pdf
+[7]: https://www.investopedia.com/terms/i/incremental-value-at-risk.asp
