@@ -60,6 +60,7 @@
 ![daily_return](https://user-images.githubusercontent.com/39410518/129207394-37bea09e-e9fe-48d0-b9ac-fc32c7fbf7f9.png)
 
 ## Returns vs Normal Distribution
+From the below we can see the returns have all been fairly normally distributed for our chosen stocks.
 ![returns_vs_normal_dist](https://user-images.githubusercontent.com/39410518/129207538-6649a527-36fc-4c92-ad13-6abad8b86e86.png)
 ![returns_vs_normal_dist](https://user-images.githubusercontent.com/39410518/129207568-e44d62c2-c8f9-49a4-9ed0-3998534a3de0.png)
 ![returns_vs_normal_dist](https://user-images.githubusercontent.com/39410518/129207583-1e8af8a8-2f4a-4c90-8e17-f37356a60065.png)
