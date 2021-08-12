@@ -2,6 +2,9 @@
 
 ![final](https://user-images.githubusercontent.com/39410518/129204842-057d3b7f-3bb1-40b8-b7d8-7d46d192e860.png)
 
+## Maximum Drawdown
+![maximum_drawdown](https://user-images.githubusercontent.com/39410518/129209087-49940a38-1846-4a71-b1f6-2bf74f02f81a.png)
+
 ## Daily Returns
 ![daily_return](https://user-images.githubusercontent.com/39410518/129206653-e48efa85-7c3c-4b88-a28d-6504c2cacca6.png)
 ![daily_return](https://user-images.githubusercontent.com/39410518/129206695-b3974981-481e-424d-9021-58a0752567e6.png)
@@ -56,6 +59,5 @@
 ![returns_vs_normal_dist](https://user-images.githubusercontent.com/39410518/129208126-97f91195-15c2-4bd3-8d5f-5922ad832b78.png)
 ![returns_vs_normal_dist](https://user-images.githubusercontent.com/39410518/129208140-8c0cb138-c7db-44b3-82a3-79eb750c1cbc.png)
 
-## Maximum Drawdown
-![maximum_drawdown](https://user-images.githubusercontent.com/39410518/129209087-49940a38-1846-4a71-b1f6-2bf74f02f81a.png)
+
 
