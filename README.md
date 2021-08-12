@@ -2,6 +2,30 @@
 ![xx1](https://user-images.githubusercontent.com/39410518/129214973-b18781fe-66e6-49fd-bf36-ad9781aa60e1.png)
 ![xx2](https://user-images.githubusercontent.com/39410518/129214849-89df6766-59b5-463b-9856-a754c6b43591.png)
 
+
+
+
+## Definition list
+---
+#### Value at Risk
+> Value-at-risk is a statistic that quantifies the extent of possible financial losses within a firm, portfolio, or position over a specific time frame. [[1]]
+ 
+#### Diversified VaR
+>  It takes into account the correlation between the assets, is the square root of the variance of the portfolio.
+
+#### Undiversified VaR
+> Undiversified VaR is the weighted average of the individual standard deviations.
+
+#### Marginal VaR
+> Marginal VaR measures how much risk a position adds to a portfolio. Specifically, marginal VaR measures how much portfolio VaR would change if the position were removed entirely
+
+#### Expected Shortfall
+> Expected shortfall, also known as conditional value at risk or cVaR, is what we expect the loss to be, on average, when a fund exceeds its VaR level.
+
+#### Relative VaR
+> Relative VaR measures the risk of underperformance relative to a pre-defined benchmark
+
+
 ## Maximum Drawdown
 ![maximum_drawdown](https://user-images.githubusercontent.com/39410518/129209087-49940a38-1846-4a71-b1f6-2bf74f02f81a.png)
 
@@ -61,3 +85,4 @@
 
 
 
+[1]: https://www.investopedia.com/terms/v/var.asp
