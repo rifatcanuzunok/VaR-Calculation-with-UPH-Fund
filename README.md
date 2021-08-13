@@ -92,16 +92,27 @@ From the below we can see the returns have all been fairly normally distributed 
 
 ## References
 http://elenamarinova.blogspot.com/2015/05/marginal-and-component-value-at-risk.html
+
 https://github.com/nesarasr/FRM-BM40006-Spring-2021/blob/18eeef178f1480d894d3fd33b1d081756e48900b/Portfolio%20VAR/PVAR.ipynb
+
 https://www.msci.com/documents/10199/3c2dcea9-97be-4fb4-befe-a03b75c885aa
+
 https://www.veristrat.com/blog-valuation/value-at-risk-var/ 
+
 http://www.yieldcurve.com/Mktresearch/LearningCurve/LearningCurve3.pdf 
+
 https://www.northstarrisk.com/expected-shortfall 
+
 https://www.investopedia.com/terms/i/incremental-value-at-risk.asp 
+
 https://merage.uci.edu/~jorion/oc/case4.html
+
 https://pyportfolioopt.readthedocs.io/en/latest/ExpectedReturns.html
+
 http://elenamarinova.blogspot.com/2015/05/marginal-and-component-value-at-risk.html
+
 https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/lecture-notes/MIT18_S096F13_lecnote7.pdf
+
 https://financetrainingcourse.com/education/2012/11/value-at-risk-var-models-methods-metrics-excel-spreadsheet-walk-through/
 
 
