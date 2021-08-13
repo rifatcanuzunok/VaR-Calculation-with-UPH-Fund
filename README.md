@@ -1,6 +1,7 @@
 # VaR Calculation with UPH Fund
-![xx1](https://user-images.githubusercontent.com/39410518/129214973-b18781fe-66e6-49fd-bf36-ad9781aa60e1.png)
-![xx2](https://user-images.githubusercontent.com/39410518/129214849-89df6766-59b5-463b-9856-a754c6b43591.png)
+![final_1](https://user-images.githubusercontent.com/39410518/129333160-54cbc0ae-a832-4949-9163-9eebdb2ed565.png)
+![final_2](https://user-images.githubusercontent.com/39410518/129333170-bf559f57-27ea-4ced-a418-9cd7c7b6e97e.png)
+
 
 ## Max portfolio loss over 15-day period
 ![var_by_day](https://user-images.githubusercontent.com/39410518/129317042-69c6f610-8dbe-4a37-833d-35fa2163e47b.png)
