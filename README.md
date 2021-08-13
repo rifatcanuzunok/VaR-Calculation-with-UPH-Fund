@@ -20,7 +20,7 @@
 > Marginal VaR measures how much risk a position adds to a portfolio. Specifically, marginal VaR measures how much portfolio VaR would change if the position were removed entirely
 
 #### Expected Shortfall
-> Expected shortfall, also known as conditional value at risk or cVaR, is what we expect the loss to be, on average, when a fund exceeds its VaR level.
+> Expected shortfall, also known as conditional value at risk or cVaR, is what we expect the loss to be, on average, when a fund exceeds its VaR level. [[5]]
 
 #### Relative VaR
 > Relative VaR measures the risk of underperformance relative to a pre-defined benchmark
@@ -92,4 +92,5 @@ From the below we can see the returns have all been fairly normally distributed 
 [1]: https://www.veristrat.com/blog-valuation/value-at-risk-var/
 [2]: http://www.yieldcurve.com/Mktresearch/LearningCurve/LearningCurve3.pdf
 [3]: http://www.yieldcurve.com/Mktresearch/LearningCurve/LearningCurve3.pdf
+[5]: https://www.northstarrisk.com/expected-shortfall
 [7]: https://www.investopedia.com/terms/i/incremental-value-at-risk.asp
