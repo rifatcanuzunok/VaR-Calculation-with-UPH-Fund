@@ -2,6 +2,9 @@
 ![xx1](https://user-images.githubusercontent.com/39410518/129214973-b18781fe-66e6-49fd-bf36-ad9781aa60e1.png)
 ![xx2](https://user-images.githubusercontent.com/39410518/129214849-89df6766-59b5-463b-9856-a754c6b43591.png)
 
+## Max portfolio loss over 15-day period
+![var_by_day](https://user-images.githubusercontent.com/39410518/129317042-69c6f610-8dbe-4a37-833d-35fa2163e47b.png)
+![var_by_day_graph](https://user-images.githubusercontent.com/39410518/129317049-4345c794-aded-42fc-af73-a4ae64c4fc36.png)
 
 
 
@@ -87,12 +90,13 @@ From the below we can see the returns have all been fairly normally distributed 
 ![returns_vs_normal_dist](https://user-images.githubusercontent.com/39410518/129208126-97f91195-15c2-4bd3-8d5f-5922ad832b78.png)
 ![returns_vs_normal_dist](https://user-images.githubusercontent.com/39410518/129208140-8c0cb138-c7db-44b3-82a3-79eb750c1cbc.png)
 
+### References
 
 
-[1]: https://www.veristrat.com/blog-valuation/value-at-risk-var/
-[2]: http://www.yieldcurve.com/Mktresearch/LearningCurve/LearningCurve3.pdf
-[3]: http://www.yieldcurve.com/Mktresearch/LearningCurve/LearningCurve3.pdf
-[4]: https://www.msci.com/documents/10199/3c2dcea9-97be-4fb4-befe-a03b75c885aa
-[5]: https://www.northstarrisk.com/expected-shortfall
-[6]: https://www.msci.com/documents/10199/3c2dcea9-97be-4fb4-befe-a03b75c885aa
-[7]: https://www.investopedia.com/terms/i/incremental-value-at-risk.asp
+[1]: https://www.veristrat.com/blog-valuation/value-at-risk-var/ 
+[2]: http://www.yieldcurve.com/Mktresearch/LearningCurve/LearningCurve3.pdf 
+[3]: http://www.yieldcurve.com/Mktresearch/LearningCurve/LearningCurve3.pdf 
+[4]: https://www.msci.com/documents/10199/3c2dcea9-97be-4fb4-befe-a03b75c885aa 
+[5]: https://www.northstarrisk.com/expected-shortfall 
+[6]: https://www.msci.com/documents/10199/3c2dcea9-97be-4fb4-befe-a03b75c885aa 
+[7]: https://www.investopedia.com/terms/i/incremental-value-at-risk.asp 
