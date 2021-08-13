@@ -1,0 +1,21 @@
+Diversified VaR TL				t
+Diversified VaR %				t
+Marginal VaR TL					t
+Marginal VaR %					t
+Diversified ES TL				
+Diversified ES %				
+Diversified Releative VaR			t
+Undiversified VaR TL				t
+Undiversified VaR %				t
+Undiversified ES TL				t
+Undiversified ES %				t
+Undiversified Relative VaR			t
+Benchmark VaR TL				t
+Benchmark VaR %					t
+Benchmark ES TL					**
+Benchmark ES %					**
+Diversified Incremental VaR TL			t
+Diversified Incremental VaR %			t*
+Undiversified Incremental VaR TL		t
+Undiversified Incremental VaR %			t*
+VaR Limit %	
